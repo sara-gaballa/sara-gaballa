@@ -3,10 +3,9 @@
 <image width="500" src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-1.gif">
 </p>
 
-<div  >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats">
-<img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3">               
- </div>
+
+![](https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true)  ![](https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3)
+
 	
 #	
 <div > 
