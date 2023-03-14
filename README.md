@@ -4,8 +4,8 @@
 </p>
 
 <div align="center">
-<img   src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats">
-<img   src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3" alt="Sara's github stats">               
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats">
+<img   align="right" src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3" alt="Sara's github stats">               
  </div>
 <div align="center"> 
   <a href="https://www.instagram.com/sara_gaballa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
