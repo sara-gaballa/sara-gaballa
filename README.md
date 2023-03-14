@@ -9,7 +9,8 @@
         	    <img src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3" />
+		    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3)](https://git.io/streak-stats)		    
             </td>
         </tr>
     </table>
