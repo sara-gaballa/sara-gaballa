@@ -2,20 +2,31 @@
 <p align="center">
 <image width="500" src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-1.gif">
 </p>
+	
 
+	
 <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true"/>
-      	    </td>
-            <td style="padding:10px">
+		    
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-gaballa&theme=blueberry&show_icons=true)		    
+		    
+</td>
+<td style="padding:10px">
 		    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3)](https://git.io/streak-stats)		    
             </td>
         </tr>
     </table>
+
 	
-#	
+<p  align="center">
+		    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-gaballa&theme=blueberry&hide_progress=true)](https://github.com/sara-gaballa/github-readme-stats)		    
+</p>
+
+#
+	
 <div align="center"> 
   <a href="https://www.instagram.com/sara_gaballa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://web.facebook.com/saragaballa2002" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
