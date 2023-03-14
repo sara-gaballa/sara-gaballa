@@ -3,9 +3,16 @@
 <image width="500" src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-1.gif">
 </p>
 
-
-![](https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true)  ![](https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3)
-
+<table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3" />
+            </td>
+        </tr>
+    </table>
 	
 #	
 <div > 
