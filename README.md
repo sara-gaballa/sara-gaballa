@@ -22,7 +22,7 @@
 	
 <p  align="center">
 		    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-gaballa&theme=blueberry&hide_progress=true)](https://github.com/sara-gaballa/github-readme-stats)		    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-gaballa&theme=blueberry&&show_icons=true&locale=en&layout=compact)](https://github.com/sara-gaballa/github-readme-stats)		    
 </p>
 
 #
