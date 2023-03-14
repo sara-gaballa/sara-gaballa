@@ -1,11 +1,9 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1B5E7B&width=435&lines=Sara+Gaballa" alt="Typing SVG" /></a> <image align="left" src="https://cdn-icons-png.flaticon.com/512/4713/4713808.png" height="30" width="30">
 
-<image  src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-1.gif">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats" width="340" >
+<image align="center" width="1000" src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-1.gif">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats">
   
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sara-gaballa)](https://git.io/streak-stats)
-  
+
 <div align="center"> 
   <a href="https://www.instagram.com/sara_gaballa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://web.facebook.com/saragaballa2002" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -16,5 +14,6 @@
 
 </div>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sara-gaballa)](https://git.io/streak-stats)
+	
 ![Snake animation](https://github.com/sara-gaballa/Sara_Gaballa/blob/output/github-contribution-grid-snake.svg)
