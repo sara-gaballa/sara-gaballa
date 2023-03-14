@@ -4,8 +4,8 @@
 </p>
 
 <div  >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats">
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3">               
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats">
+<img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=sara-gaballa&theme=blueberry&border_radius=3">               
  </div>
 	
 #	
