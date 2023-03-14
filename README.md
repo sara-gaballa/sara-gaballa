@@ -1,7 +1,7 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1B5E7B&width=435&lines=Sara+Gaballa" alt="Typing SVG" /></a> <image align="left" src="https://cdn-icons-png.flaticon.com/512/4713/4713808.png" height="30" width="30">
 
 <image  src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-1.gif">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats" style="  position: relative;">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sara-gaballa&hide_border=true&show_icons=true" alt="Sara's github stats" width="430" >
   
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sara-gaballa)](https://git.io/streak-stats)
