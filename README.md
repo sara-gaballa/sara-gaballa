@@ -59,4 +59,4 @@
 
 
 #	
-![Snake animation](https://github.com/sara-gaballa/Sara_Gaballa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sara-gaballa/Sara_Gaballa/blob/output/github-snake.svg)
