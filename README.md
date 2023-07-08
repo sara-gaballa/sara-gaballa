@@ -59,4 +59,4 @@
 
 
 #	
-![Snake animation](https://github.com/sara-gaballa/Sara_Gaballa/blob/output/ocean.gif)
+![Snake animation](https://github.com/sara-gaballa/Sara_Gaballa/blob/output/github-snake-dark.svg)
